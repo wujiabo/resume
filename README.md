@@ -1,2 +1,80 @@
-# resume
-resume
+武佳博 
+=============
+###### _JAVA后端开发_
+
+
+联系方式
+-----------------------
+
+- 电话: 13478976265
+- 邮箱: [wujiabo@126.com](http://wujiabo@126.com)
+
+
+技能简介
+-------
+
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
+XXX XXX XXX XXX XXX XXX XXX XXX XXX .
+
+
+教育经历
+---------
+
+[大连海事大学](https://www.dlmu.edu.cn/), 本科, 信息管理与信息系统, *2002.09 - 2006.07*
+
+
+工作经历
+----------
+
+### **JAVA开发**, IBM, *November 2013 - Present*
+
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
+XXX XXX XXX XXX XXX XXX XXX XXX XXX .
+
+### **JAVA开发**, IBM, *November 2013 - Present*
+
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
+XXX XXX XXX XXX XXX XXX XXX XXX XXX .
+
+
+项目经历
+----------
+
+### **JAVA开发**, IBM, *November 2013 - Present*
+
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
+XXX XXX XXX XXX XXX XXX XXX XXX XXX .
+
+### **JAVA开发**, IBM, *November 2013 - Present*
+
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
+XXX XXX XXX XXX XXX XXX XXX XXX XXX .
+
+
+获得认证
+-----------------
+
+- *PMP*, PMI, May 2021
+- *PMP*, PMI, May 2021
+- *PMP*, PMI, May 2021
+
+
+自我评价
+---------
+
+- 良好的沟通能力和团队合作意识。
+- 责任心强，有开拓创新意识和高度的执行力。
+
+
+
+©2021 [Jiabo.Wu](https://github.com/wujiabo/resume). All rights reserved.
