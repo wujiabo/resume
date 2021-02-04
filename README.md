@@ -28,19 +28,14 @@ XXX XXX XXX XXX XXX XXX XXX XXX XXX .
 工作经历
 ----------
 
-### **JAVA开发**, IBM, *November 2013 - Present*
+### **Application Developer**, IBM, *2018.09 - 今*
+### **技术主管**, 大连华信, *2017.04 - 2018.09*
+### **Consultant**, 简柏特, *2015.08 - 2017.04*
+### **高级开发工程师**, 文思海辉, *2013.08 - 2015.08*
+### **高级开发工程师**, 大连华信, *2010.11 - 2013.08*
+### **高级开发工程师**, 大连智达, *2009.10 - 2010.11*
+### **开发工程师**, 大连海辉, *2006.07 - 2009.10*
 
-XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
-XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
-XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
-XXX XXX XXX XXX XXX XXX XXX XXX XXX .
-
-### **JAVA开发**, IBM, *November 2013 - Present*
-
-XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
-XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
-XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
-XXX XXX XXX XXX XXX XXX XXX XXX XXX .
 
 
 项目经历
@@ -64,9 +59,9 @@ XXX XXX XXX XXX XXX XXX XXX XXX XXX .
 获得认证
 -----------------
 
-- *PMP*, PMI, May 2021
-- *PMP*, PMI, May 2021
-- *PMP*, PMI, May 2021
+- *PMP*, PMI, 2016.12
+- *PMI-ACP*, PMI, 2019.06
+- *ACP*, 阿里云, 2020.05
 
 
 自我评价
