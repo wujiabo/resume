@@ -13,10 +13,15 @@
 技能简介
 -------
 
-XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
-XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
-XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX 
-XXX XXX XXX XXX XXX XXX XXX XXX XXX .
+- 熟悉Java核心基础，对JVM原理有初步理解。
+- 熟练使用主流的关系型数据库，MySQL、Oracle，有调优经验。了解Redis等NoSQL数据库。
+- 熟悉微服务架构，熟悉Spring Cloud常用组件，Eureka、Ribbon、Hystrix、Feign、Gateway、Config等。
+- 熟练掌握Spring Boot等主流开源框架。
+- 熟悉Maven等项目构建工具，熟悉Git、Svn等版本控制工具。
+- 熟悉Jenkins等持续集成工具搭建CI/CD流水线。
+- 了解Docker、Kubernetes等容器化技术。
+- 了解Kafka等消息中间件。
+
 
 
 教育经历
@@ -47,7 +52,7 @@ XXX XXX XXX XXX XXX XXX XXX XXX XXX .
 负责采购计划模块、委托单模块的设计开发及需求变更，负责物流模块上线后应急支援修复bug。  
 系统采用前后端分离的微服务架构，后端使用Spring Cloud家族组件，Eureka实现服务的注册与调用，Feign结合Ribbon负载均衡地发起调用HTTP远程服务，
 Hystrix作为熔断器避免了微服务之间的调用“雪崩”，PC端和APP端请求统一从Gateway进入，由网关转发请求给对应的服务，实现网关管控。
-通过ElasticSearch、Logstash 和 Kibana实现了一套完整的日志收集以及展示的解决方案。使用Jenkins建立了dev、sit、uat等环境的CI\CD持续集成流水线，方便日常功能更新发版。  
+通过ElasticSearch、Logstash 和 Kibana实现了一套完整的日志收集以及展示的解决方案。使用Jenkins建立了DEV、SIT、UAT等环境的CI/CD持续集成流水线，方便日常功能更新发版。  
 
 #### **华为产品生命周期管理系统**
 ###### _IBM, 2018.09 - 2019.05_
