@@ -1,16 +1,16 @@
-武佳博 
+Wu Jiabo 
 =============
-###### _JAVA后端开发_
+###### _JAVA Back-end Developer_
 
 
-联系方式
+Contact
 -----------------------
 
-- 电话: 13478976265
-- 邮箱: [wujiabo@126.com](http://wujiabo@126.com)
+- Phone: 13478976265
+- Email: [wujiabo@126.com](http://wujiabo@126.com)
 
 
-技能简介
+Specialties
 -------
 
 - 熟悉Java核心基础，对JVM原理有初步理解。
@@ -24,30 +24,30 @@
 
 
 
-教育经历
+Education
 ---------
 
-[大连海事大学](https://www.dlmu.edu.cn/), 本科, 信息管理与信息系统, *2002.09 - 2006.07*
+[Dalian Maritime University](https://www.dlmu.edu.cn/), B.S., Information management and information system, *2002.09 - 2006.07*
 
 
-工作经历
+Experience
 ----------
 
-- ***IBM***, Application Developer, *2018.09 - 今*
-- ***大连华信***, 技术主管, *2017.04 - 2018.09*
-- ***简柏特***, Consultant, *2015.08 - 2017.04*
-- ***文思海辉***, 高级开发工程师, *2013.08 - 2015.08*
-- ***大连华信***, 高级开发工程师, *2010.11 - 2013.08*
-- ***大连智达***, 高级开发工程师, *2009.10 - 2010.11*
-- ***大连海辉***, 开发工程师, *2006.07 - 2009.10*
+- ***IBM***, Application Developer, *2018.09 - Present*
+- ***Dalian HuaXin***, Technical Director, *2017.04 - 2018.09*
+- ***Genpact***, Consultant, *2015.08 - 2017.04*
+- ***Pactera***, Senior Developer, *2013.08 - 2015.08*
+- ***Dalian HuaXin***, Senior Developer, *2010.11 - 2013.08*
+- ***Dalian ZhiDa***, Senior Developer, *2009.10 - 2010.11*
+- ***HiSoft***, Developer, *2006.07 - 2009.10*
 
 
 
-项目经历
+Projects
 ----------
 
 #### **中国移动供应链系统**
-###### _IBM, 2019.05 - 今_
+###### _IBM, 2019.05 - Present_
 
 负责采购计划模块、委托单模块的设计开发及需求变更，负责物流模块上线后应急支援修复bug。  
 系统采用前后端分离的微服务架构，后端使用Spring Cloud家族组件，Eureka实现服务的注册与调用，Feign结合Ribbon负载均衡地发起调用HTTP远程服务，
@@ -65,19 +65,19 @@ Hystrix作为熔断器避免了微服务之间的调用“雪崩”，PC端和AP
 
 
 
-获得认证
+Certifications
 -----------------
 
 - ***PMP***, PMI, *2016.12*
 - ***PMI-ACP***, PMI, *2019.06*
-- ***ACP***, 阿里云, *2020.05*
+- ***ACP***, Alibaba Cloud, *2020.05*
 
 
-自我评价
+Summary
 ---------
 
-- 良好的沟通能力和团队合作意识。
-- 责任心强，有开拓创新意识和高度的执行力。
+- Good communication skills and team work spirit.
+- Strong sense of responsibility, innovative consciousness and high executive ability.
 
 
 
